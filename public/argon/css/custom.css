@@ -1,0 +1,17 @@
+.thumb img,
+img.thumb {
+    width: 60px;
+    border-radius: 50%;
+    height: 60px;
+    object-fit: cover;
+}
+
+
+img.thumb-or {
+    width: 60px;
+}
+.form-inline {
+    display: block;
+}
+
+
